@@ -1,0 +1,51 @@
+{
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.snippetSuggestions": "top",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "svelte.plugin.html.tagComplete.enable": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "terminal.integrated.env.linux": {},
+    "r.plot.useHttpgd": true,
+    "r.lsp.diagnostics": false,
+    "r.alwaysUseActiveTerminal": false,
+    "terminal.integrated.defaultProfile.windows": "zsh",
+    "r.rterm.linux": "/home/robin/.local/bin/radian",
+    // Use bracketed paste mode
+    "r.bracketedPaste": true,
+    "r.sessionWatcher": true,
+    "r.source.focus": "editor",
+    "editor.formatOnType": true,
+    "console-ninja.featureSet": "Community",
+    "svelte.ask-to-enable-ts-plugin": false,
+    "editor.largeFileOptimizations": false,
+    "editor.formatOnSave": true,
+    "quarto.render.renderOnSave": true,
+    "[shellscript]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "html.format.wrapAttributes": "force-aligned",
+    "git.confirmSync": false,
+    "editor.lineHeight": 1.6,
+    "typescript.implementationsCodeLens.enabled": true,
+    "npm.scriptExplorerAction": "run",
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "files.autoSave": "afterDelay",
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "/home/robin/.config/nvim/init.vim"
+}
