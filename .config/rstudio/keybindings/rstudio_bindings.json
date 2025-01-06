@@ -1,0 +1,22 @@
+{
+    "insertPipeOperator": "Ctrl+M",
+    "activateTerminal": "Ctrl+P",
+    "activateSource": "Ctrl+I",
+    "activateConsolePane": "Ctrl+O",
+    "sourceActiveDocument": "",
+    "knitDocument": "Ctrl+Shift+K",
+    "activateConsole": "Ctrl+O",
+    "previousTab": "Alt+Left",
+    "nextTab": "Alt+Right",
+    "insertChunkR": "Ctrl+Shift+R",
+    "goToDefinition": "Ctrl+Shift+Space",
+    "goToHelp": "Ctrl+Shift+Space",
+    "insertSection": "Ctrl+Shift+S",
+    "foldAll": "",
+    "unfold": "Alt+Shift+L|Alt+Shift+L|Ctrl+Shift+F1",
+    "unfoldAll": "Ctrl+Shift+U",
+    "interruptR": "Ctrl+C",
+    "openProject": "Ctrl+Space Ctrl+O",
+    "shinyRunInPane": "Ctrl+Shift+Enter",
+    "newRNotebook": "Ctrl+Alt+M"
+}
