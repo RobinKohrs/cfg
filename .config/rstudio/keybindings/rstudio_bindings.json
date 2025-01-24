@@ -1,5 +1,5 @@
 {
-    "insertPipeOperator": "Ctrl+M",
+    "insertPipeOperator": "Ctrl+Shift+M",
     "activateTerminal": "Ctrl+P",
     "activateSource": "Ctrl+I",
     "activateConsolePane": "Ctrl+O",
@@ -18,5 +18,6 @@
     "interruptR": "Ctrl+C",
     "openProject": "Ctrl+Space Ctrl+O",
     "shinyRunInPane": "Ctrl+Shift+Enter",
-    "newRNotebook": "Ctrl+Alt+M"
+    "newRNotebook": "Ctrl+Alt+M",
+    "closeSourceDoc": "Cmd+W"
 }

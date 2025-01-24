@@ -9,11 +9,11 @@
         "command": "workbench.action.quickOpen"
     },
     {
-        "key": "alt+right",
+        "key": "cmd+right",
         "command": "workbench.action.nextEditor"
     },
     {
-        "key": "alt+left",
+        "key": "cmd+left",
         "command": "workbench.action.previousEditor"
     },
     {
