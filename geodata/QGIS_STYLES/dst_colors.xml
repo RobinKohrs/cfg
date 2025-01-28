@@ -1,0 +1,31 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols/>
+  <colorramps>
+    <colorramp type="preset" name="dst" tags="dst">
+      <Option type="Map">
+        <Option type="QString" name="preset_color_0" value="193,217,217,255,rgb:0.75686274509803919,0.85098039215686272,0.85098039215686272,1"/>
+        <Option type="QString" name="preset_color_1" value="215,227,232,255,rgb:0.84313725490196079,0.8901960784313725,0.90980392156862744,1"/>
+        <Option type="QString" name="preset_color_2" value="216,222,193,255,rgb:0.84705882352941175,0.87058823529411766,0.75686274509803919,1"/>
+        <Option type="QString" name="preset_color_3" value="174,212,174,255,rgb:0.68235294117647061,0.83137254901960789,0.68235294117647061,1"/>
+        <Option type="QString" name="preset_color_4" value="255,204,102,255,rgb:1,0.80000000000000004,0.40000000000000002,1"/>
+        <Option type="QString" name="preset_color_5" value="255,255,255,255,rgb:1,1,1,1"/>
+        <Option type="QString" name="preset_color_6" value="248,248,248,255,rgb:0.97254901960784312,0.97254901960784312,0.97254901960784312,1"/>
+        <Option type="QString" name="preset_color_7" value="190,218,227,255,rgb:0.74509803921568629,0.85490196078431369,0.8901960784313725,1"/>
+        <Option type="QString" name="preset_color_name_0" value="APO"/>
+        <Option type="QString" name="preset_color_name_1" value="CHRIPO"/>
+        <Option type="QString" name="preset_color_name_2" value="WIRTSCHAFT"/>
+        <Option type="QString" name="preset_color_name_3" value="PANO"/>
+        <Option type="QString" name="preset_color_name_4" value="ETAT"/>
+        <Option type="QString" name="preset_color_name_5" value="Lifestyle"/>
+        <Option type="QString" name="preset_color_name_6" value="Karriere"/>
+        <Option type="QString" name="preset_color_name_7" value="Wissenschaft"/>
+        <Option type="QString" name="rampType" value="preset"/>
+      </Option>
+    </colorramp>
+  </colorramps>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
