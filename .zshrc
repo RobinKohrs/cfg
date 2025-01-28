@@ -170,7 +170,8 @@ oc() {
 
   if [ -n "$folder" ];
   then
-    code $folder
+    cd $folder
+    code .
   fi
 }
 
