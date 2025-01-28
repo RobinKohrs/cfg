@@ -84,6 +84,7 @@ plugins=(
     git
     zsh-autosuggestions
     z
+    zsh-fzf-history-search
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -186,7 +187,7 @@ or() {
 
 # change to folder
 o() {
-  folder=$(fd -u --type d --exclude node_modules --exclude Library | fzf --preview='tree -L 1 -C {} | head -n 50'
+  folder=$(fd -u --type d --exclude node_modules | fzf --preview='tree -L 1 -C {} | head -n 50'
 )
 
   if [ -n "$folder" ];
@@ -196,3 +197,5 @@ o() {
 }
 
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
+
